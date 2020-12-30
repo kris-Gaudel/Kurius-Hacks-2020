@@ -4,4 +4,4 @@ Google Slides Presentation (contains screenshots of project): https://docs.googl
 
 Video Link: PENDING
 
-Mobile app developed in Flutter with three features (food bank map, EchoAR/VR Portal with unity and food reminder app to educate users about food security
+Mobile app developed in Flutter with three features (food bank map, EchoAR/VR Portal with unity and food reminder feature) to educate users about food security
